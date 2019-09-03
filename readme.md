@@ -2,4 +2,4 @@ Cálculo de gradiente a partir de cuatro puntos utilizando la técnica de Wombli
 
 
 
-[![Watch the video](https://youtu.be/E3OJJYOk1eY)](https://youtu.be/E3OJJYOk1eY)
+[![Ver video de aplicación simple con micrófonos](https://youtu.be/E3OJJYOk1eY)](https://youtu.be/E3OJJYOk1eY)
