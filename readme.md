@@ -3,7 +3,7 @@ https://www.jstor.org/stable/1677874?seq=1#page_scan_tab_contents
 
 Acá les dejo un video con el ejemplo del código. Son cuatro micrófonos conectados a pines A0-A3
 
-[![Ver video de aplicación simple con micrófonos](https://github.com/tomasdecamino/SpatialGradient/blob/master/womblingMic.png)]
+[![Ver video de aplicación simple con micrófonos](https://github.com/tomasdecamino/SpatialGradient/blob/master/womblingMic.png)
 
 
 [![Ver video de aplicación simple con micrófonos](https://youtu.be/E3OJJYOk1eY)](https://youtu.be/E3OJJYOk1eY)
