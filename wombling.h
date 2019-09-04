@@ -1,3 +1,5 @@
+//tomasdecamino.com 
+
 #include <math.h>
 
 struct vector {
